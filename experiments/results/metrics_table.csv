@@ -1,0 +1,2 @@
+Dataset,Model,P (%),R (%),F1 (%),AUC
+ESA-ADB,Anomaly Transformer,62.05,33.78,43.74,0.6811
