@@ -56,7 +56,7 @@ The raw dataset is **not included in this repository**.
 
 This is intentional because the repository is intended to contain the implementation, experimental results, and trained model rather than redistribute the raw benchmark data.
 
-Place the downloaded ESA-ADB Mission 1 dataset in the expected local directory:
+After obtaining the ESA-ADB Mission 1 dataset from its official source, place it in the following directory:
 
 ```text
 ESA-Mission1/
